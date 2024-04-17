@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "licealiadus:blocks/urzonlineii_universal_export",
+    "up": "licealiadus:blocks/urzonlineii_universal_export",
+    "north": "licealiadus:blocks/urzonlineii_universal_export",
+    "east": "licealiadus:blocks/urzonlineii_universal_export",
+    "south": "licealiadus:blocks/urzonlineii_universal_export",
+    "west": "licealiadus:blocks/urzonlineii_universal_export",
+    "particle": "licealiadus:blocks/urzonlineii_universal_export"
+  },
+  "render_type": "solid"
+}

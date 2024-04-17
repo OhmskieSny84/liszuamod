@@ -1,0 +1,50 @@
+{
+  "mod_elements": [
+    {
+      "name": "Roslinachora",
+      "type": "plant",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "roslinachora"
+    },
+    {
+      "name": "Kwiatsera",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kwiatsera"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.licealiadus.roslinachora": "Roslinachora",
+      "block.licealiadus.kwiatsera": "Kwiatsera"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "licealiadus",
+    "modName": "licealiadus",
+    "version": "1.0.0",
+    "author": "Asus, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.licealiadus",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

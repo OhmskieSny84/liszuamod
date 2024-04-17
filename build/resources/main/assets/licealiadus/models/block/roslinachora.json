@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "licealiadus:blocks/urzonlineii_universal_export",
+    "particle": "licealiadus:blocks/urzonlineii_universal_export"
+  },
+  "render_type": "cutout"
+}
